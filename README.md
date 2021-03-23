@@ -1,7 +1,7 @@
 # NTLMCrack
 
 
-Crakin' NTLM via Telegram Bot through HashCat
+Crakin' NTLM via Telegram Bot through HashCat </br>
 New method of get access to smth... (if u know wat i mean)
 
 
